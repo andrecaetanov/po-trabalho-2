@@ -1,0 +1,479 @@
+{
+  "Objective": 2,
+  "Variables": [
+    {
+      "Name": "x11",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x12",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x21",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x22",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x31",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x32",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x41",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x42",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x51",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x52",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x61",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x62",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x71",
+      "Coefficient": 1
+    },
+    {
+      "Name": "x72",
+      "Coefficient": 1
+    }
+  ],
+  "Constraints": [
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x12",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 452
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x21",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x22",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 271
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x31",
+          "Coefficient": 168
+        },
+        {
+          "Name": "x32",
+          "Coefficient": 168
+        }
+      ],
+      "Type": 2,
+      "Value": 604
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x41",
+          "Coefficient": 168
+        },
+        {
+          "Name": "x42",
+          "Coefficient": 168
+        }
+      ],
+      "Type": 2,
+      "Value": 750
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x51",
+          "Coefficient": 42
+        },
+        {
+          "Name": "x52",
+          "Coefficient": 42
+        }
+      ],
+      "Type": 2,
+      "Value": 584
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x61",
+          "Coefficient": 168
+        },
+        {
+          "Name": "x62",
+          "Coefficient": 168
+        }
+      ],
+      "Type": 2,
+      "Value": 307
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x71",
+          "Coefficient": 168
+        },
+        {
+          "Name": "x72",
+          "Coefficient": 168
+        }
+      ],
+      "Type": 2,
+      "Value": 227
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x21",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x41",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 488
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x21",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x41",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x51",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 1978
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x21",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x41",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x51",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x52",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 3776
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x21",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x41",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x51",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x12",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x22",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x42",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x52",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 3327
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x12",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x22",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x42",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x52",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 1523
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x21",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x41",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x51",
+          "Coefficient": 1008
+        },
+        {
+          "Name": "x12",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x22",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x42",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 1521
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x12",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x22",
+          "Coefficient": 1512
+        },
+        {
+          "Name": "x42",
+          "Coefficient": 1008
+        }
+      ],
+      "Type": 2,
+      "Value": 545
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x11",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x12",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x21",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x22",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x31",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x32",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x41",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x42",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x51",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x52",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x61",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x62",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x71",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x72",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 1
+    }
+  ]
+}

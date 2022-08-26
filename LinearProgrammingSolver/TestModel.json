@@ -1,0 +1,57 @@
+{
+  "Objective": 2,
+  "Variables": [
+    {
+      "Name": "x1",
+      "Coefficient": 20
+    },
+    {
+      "Name": "x2",
+      "Coefficient": 10
+    }
+  ],
+  "Constraints": [
+    {
+      "Variables": [
+        {
+          "Name": "x1",
+          "Coefficient": 1
+        },
+        {
+          "Name": "x2",
+          "Coefficient": 2
+        }
+      ],
+      "Type": 3,
+      "Value": 40
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x1",
+          "Coefficient": 3
+        },
+        {
+          "Name": "x2",
+          "Coefficient": 1
+        }
+      ],
+      "Type": 2,
+      "Value": 30
+    },
+    {
+      "Variables": [
+        {
+          "Name": "x1",
+          "Coefficient": 4
+        },
+        {
+          "Name": "x2",
+          "Coefficient": 3
+        }
+      ],
+      "Type": 2,
+      "Value": 60
+    }
+  ]
+}
